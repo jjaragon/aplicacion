@@ -1,0 +1,1 @@
+<div class="alert alert-warning">No poseee permisos para esta acción </div>
